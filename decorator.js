@@ -1,4 +1,3 @@
-
 // 参数和defineProperty一样
 function addMeat(target, key, descriptor) {
     const method = descriptor.value;

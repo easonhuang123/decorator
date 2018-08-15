@@ -41,5 +41,3 @@ todayDinner = new AddMeat(todayDinner);
 todayDinner = new AddDrink(todayDinner);
 
 console.log(`${todayDinner}`);
-
-
